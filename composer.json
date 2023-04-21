@@ -1,6 +1,7 @@
 {
     "name": "lvjhn/hello-packagist",
     "description": "Just learning how to create composer packages.",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
